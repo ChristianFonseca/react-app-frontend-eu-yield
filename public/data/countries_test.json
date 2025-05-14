@@ -1,0 +1,38 @@
+[
+    {
+      "name": "United States",
+      "code": "US",
+      "provinces": [
+        {
+          "name": "California",
+          "latitude": 36.7783,
+          "longitude": -119.4179,
+          "euCode": "US-CA"
+        },
+        {
+          "name": "New York",
+          "latitude": 40.7128,
+          "longitude": -74.0060,
+          "euCode": "US-NY"
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "provinces": [
+        {
+          "name": "Ontario",
+          "latitude": 51.2538,
+          "longitude": -85.3232,
+          "euCode": "CA-ON"
+        },
+        {
+          "name": "Quebec",
+          "latitude": 52.9399,
+          "longitude": -73.5491,
+          "euCode": "CA-QC"
+        }
+      ]
+    }
+  ]

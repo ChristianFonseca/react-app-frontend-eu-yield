@@ -1,0 +1,23 @@
+.select-content {
+    background-color: white;
+    border: 1px solid #e2e8f0;
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  }
+  
+  .dark .select-content {
+    background-color: #1f2937;
+    border-color: #374151;
+  }
+  
+  .select-item {
+    cursor: pointer;
+  }
+  
+  .select-item:hover {
+    background-color: #f3f4f6;
+  }
+  
+  .dark .select-item:hover {
+    background-color: #374151;
+  }
+  
